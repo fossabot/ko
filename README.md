@@ -4,6 +4,7 @@
 [![GoDoc](https://godoc.org/github.com/google/ko?status.svg)](https://godoc.org/github.com/google/ko)
 [![Go Report Card](https://goreportcard.com/badge/ko-build/ko)](https://goreportcard.com/report/ko-build/ko)
 [![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://slsa.dev/images/gh-badge-level3.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmateenali66%2Fko.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmateenali66%2Fko?ref=badge_shield)
 
 <img src="./docs/images/demo.png" width="100%">
 
@@ -39,3 +40,7 @@ See you there!
 ### Community Meetings
 
 You can find all the necessary details about the community meetings in this [page](https://ko.build/community).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmateenali66%2Fko.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmateenali66%2Fko?ref=badge_large)
